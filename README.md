@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Edwin Flores 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png](https://imgur.com/a/F7KyfNu](https://i.imgur.com/C8Feeh8.png">
+<img src="[https://i.imgur.com/weNbhGZ.png](https://imgur.com/a/F7KyfNu](https://i.imgur.com/C8Feeh8.png](https://imgur.com/a/mlxXgED)">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/edwinflores19/)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube)](https://www.youtube.com/@edwinfloressanchez3818)
@@ -9,8 +9,21 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
+-🛠 Consultor SAP S/4HANA con experiencia en MM, PS, FI y Cloud ALM
+
+-👨‍💻 Desarrollador en ABAP, Python, R, SQL y algo de Java y C
+
+-🌐 Me interesa el desarrollo web y la inteligencia artificial aplicada
+
+-🚀 He trabajado en proyectos reales de migración e implementación SAP
+
+-📈 Me enfoco en automatizar procesos y optimizar soluciones técnicas
+
+-🤝 Trabajo en equipo, adaptable y orientado a resultados
+
+-📍 Basado en Lima, Perú — abierto a colaborar y aprender siempre
+
+-💡 Apasionado por la tecnología y los retos que transforman empresas
 <br>
 
 ### ⚙️  GitHub Analytics
