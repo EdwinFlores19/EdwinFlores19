@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Edwin Flores 👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://imgur.com/a/F7KyfNu](https://i.imgur.com/C8Feeh8.png](https://imgur.com/a/mlxXgED)">
+<img src="https://imgur.com/a/mlxXgED">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/edwinflores19/)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube)](https://www.youtube.com/@edwinfloressanchez3818)
