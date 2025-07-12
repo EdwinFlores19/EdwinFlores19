@@ -1,29 +1,31 @@
 <div align="center">
 <h1 align="center">Hola, soy Edwin Flores 👋</h1>
 </div>
-<img src="https://imgur.com/a/mlxXgED.png">
+<img src="https://i.imgur.com/KWcIxJS.png">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/edwinflores19/)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube)](https://www.youtube.com/@edwinfloressanchez3818)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/edwinflores_19/)
 
-## Sobre mi
+## About me
 
--🛠 Consultor SAP S/4HANA con experiencia en MM, PS, FI y Cloud ALM
+-🛠 SAP S/4HANA Consultant with experience in MM, PS, FI, CO, and Cloud ALM as a Lifecycle Project Manager
 
--👨‍💻 Desarrollador en ABAP, Python, R, SQL y algo de Java y C
+-👨‍💻 Developer in ABAP, Python, R, SQL, with some experience in Java and C
 
--🌐 Me interesa el desarrollo web y la inteligencia artificial aplicada
+-🌐 Interested in web development and applied artificial intelligence
 
--🚀 He trabajado en proyectos reales de migración e implementación SAP
+-🚀 Hands-on experience in real SAP migration and implementation projects
 
--📈 Me enfoco en automatizar procesos y optimizar soluciones técnicas
+-📈 Focused on automating processes and optimizing technical solutions
 
--🤝 Trabajo en equipo, adaptable y orientado a resultados
+-🤝 Team player, adaptable, and results-oriented
 
--📍 Basado en Lima, Perú — abierto a colaborar y aprender siempre
+-📍 Based in Lima, Peru
 
--💡 Apasionado por la tecnología y los retos que transforman empresas
+-💡 Passionate about technology and challenges that drive business transformation
+
+
 <br>
 
 ### ⚙️  GitHub Analytics
